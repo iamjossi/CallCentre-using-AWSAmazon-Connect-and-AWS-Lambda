@@ -1,4 +1,4 @@
-# CallCentre-using-AWSAmazon-Connect-and-AWS-Lambda
+# CallCentre-using-AWS-Amazon-Connect-and-AWS-Lambda
 
 This is one of the most interesting project I have built. This is a customer call center for a company I named Rem Inter-Link Limited.
 
